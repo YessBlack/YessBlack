@@ -1,4 +1,4 @@
-![Sin título-1](https://user-images.githubusercontent.com/70681219/172998160-73f2e561-9822-43f9-9a9a-1da06c263375.png)
+![banner](https://user-images.githubusercontent.com/70681219/173011681-e2f1a535-106d-4d99-a08f-c881d212577d.jpg)
 
 ### Hola, soy Angelica 👋
 
