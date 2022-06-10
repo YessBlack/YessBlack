@@ -1,6 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/70681219/173011681-e2f1a535-106d-4d99-a08f-c881d212577d.jpg)
 
-### Hola, soy Angelica 👋
+### Hola 👋 Soy Angelica 👩‍💻
+## Hola 👋 Soy Angelica 👩‍💻
 
 <!--
 **YessBlack/YessBlack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
