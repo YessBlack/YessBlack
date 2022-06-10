@@ -20,5 +20,5 @@ const yessblack = {
 }
 
 Puedes encontrarme 🌎:
-- [Twitter] (https://twitter.com/YessBl4ck)
-- [Linkedin] (www.linkedin.com/in/angelica-garcia-80b65618a)
+-[Twitter] (https://twitter.com/YessBl4ck)
+-[Linkedin] (www.linkedin.com/in/angelica-garcia-80b65618a)
