@@ -24,6 +24,6 @@ const yessblack = {
 ### Puedes encontrarme 🌎:
 - [Twitter] (https://twitter.com/YessBl4ck)
 - [Linkedin] (www.linkedin.com/in/angelica-garcia-80b65618a)
-- [Github] https://github.com/YessBlack
+- [Github https://github.com/YessBlack]
 
 
