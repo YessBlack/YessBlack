@@ -10,7 +10,7 @@
 
 ```javascript
 const yessblack = {
-    pronouns: "He" | "Her",
+    pronouns: "She" | "Her",
     askMeAbout: ["app dev", "web dev", "tech","games",""],
     technologies:{
         backEnd: ["nodejs"],
@@ -18,3 +18,7 @@ const yessblack = {
         database: ["mySql"],
     },
 }
+
+Puedes encontrarme 🌎:
+- [Twitter]: https://twitter.com/YessBl4ck
+- [Linkedin]: www.linkedin.com/in/angelica-garcia-80b65618a
