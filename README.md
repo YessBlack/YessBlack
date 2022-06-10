@@ -6,6 +6,19 @@
 #### 🔥 Disfruto dia a dia, aprendo a potenciar mis habilidades tecnicas y esenciales
 #### 👩‍🎓 Creo oportunidades de aprendizaje para practicar y practicar los conocimientos adquiridos en programacion
 #### 🎮 En mis tiempos libres me gusta leer, jugar videojuegos, disfrutar de alguna serie y hacer ejercicio
+
+
+```javascript
+const yessblack = {
+    pronouns: "He" | "Her",
+    askMeAbout: ["app dev", "web dev", "tech","games",""],
+    technologies:{
+        backEnd: ["nodejs"],
+        fronEnd: ["js","css","html","Bootstrap"],
+        database: ["mySql"],
+    },
+}
+
 <!--
 **YessBlack/YessBlack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
