@@ -16,6 +16,7 @@ const yessblack = {
         backEnd: ["nodejs"],
         fronEnd: ["js","css","html","Bootstrap"],
         database: ["mySql"],
+        UX:["Figma"]
     },
 }
 ```
