@@ -13,7 +13,6 @@ const yessblack = {
     pronouns: "She" | "Her",
     askMeAbout: ["app dev", "web dev", "tech","games",""],
     technologies:{
-        backEnd: ["nodejs"],
         fronEnd: ["js","css","html","Bootstrap"],
         database: ["mySql"],
         UX:["Figma"]
