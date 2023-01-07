@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/70681219/211132768-cccbbae2-d8f9-469b-be19-e999c0f738ee.jpg)
+![banner](https://user-images.githubusercontent.com/70681219/211134452-c34f5ea7-54b5-402a-88d9-3b91bff8b5f1.jpg)
 
 <div align="center">
     <a href="https://www.linkedin.com/in/angelica-garcia-osorio/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45px"></a>
