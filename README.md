@@ -1,11 +1,11 @@
 ![banner](https://user-images.githubusercontent.com/70681219/211132768-cccbbae2-d8f9-469b-be19-e999c0f738ee.jpg)
 
-### Hola 👋 Soy YessBlack 👩‍💻
-- 💥 Puedes llamarme Angelica, soy Junior Web Developer, soy Colombiana y me encuentro aprendiendo al maximo 
-- ❤ Amo programar, estoy construyéndome dia a dia, encontrando areas de mejora para sacar mi mejor version
-- 🔥 Disfruto dia a dia, aprendo a potenciar mis habilidades tecnicas y esenciales
-- 👩‍🎓 Creo oportunidades de aprendizaje para practicar y practicar los conocimientos adquiridos en programacion
-- 🎮 En mis tiempos libres me gusta leer, jugar videojuegos, disfrutar de alguna serie y hacer ejercicio
+[[col2-{
+[[ejes-{Lorem ipsum}-{Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet odio justo. Aliquam volutpat.}-{icono-arg-bailar}-{text-primary}]]
+}-]]
+[[col2-{
+[[ejes-{Lorem ipsum}-{Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet odio justo. Aliquam volutpat.}-{icono-arg-juegos}-{text-primary}]]
+}-]]
 
 
 ```javascript
