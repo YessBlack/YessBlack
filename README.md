@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/70681219/211132768-cccbbae2-d8f9-469b-be19-e999c0f738ee.jpg)
 
-[![Twitter]([http://rusersgroup.com/img/final5x5.png](https://cdn-icons-png.flaticon.com/512/1384/1384065.png))]([https://www.facebook.com/Rusersgroup](https://twitter.com/YessBl4ck))
+[![Twitter](http://3.bp.blogspot.com/-LreV4qrWx2Q/UPgmDL5WZ0I/AAAAAAAACWg/BZEpXOQVr6s/s1600/twitter-bird-light-bgs.png)](https://twitter.com/YessBl4ck)
 
 
 ```javascript
