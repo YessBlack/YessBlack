@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/70681219/173011681-e2f1a535-106d-4d99-a08f-c881d212577d.jpg)
+![banner](https://user-images.githubusercontent.com/70681219/211132768-cccbbae2-d8f9-469b-be19-e999c0f738ee.jpg)
 
 ### Hola 👋 Soy YessBlack 👩‍💻
 - 💥 Puedes llamarme Angelica, soy Junior Web Developer, soy Colombiana y me encuentro aprendiendo al maximo 
