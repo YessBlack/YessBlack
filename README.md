@@ -1,11 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/70681219/211132768-cccbbae2-d8f9-469b-be19-e999c0f738ee.jpg)
 
-[[col2-{
-[[ejes-{Lorem ipsum}-{Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet odio justo. Aliquam volutpat.}-{icono-arg-bailar}-{text-primary}]]
-}-]]
-[[col2-{
-[[ejes-{Lorem ipsum}-{Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet odio justo. Aliquam volutpat.}-{icono-arg-juegos}-{text-primary}]]
-}-]]
+[![RUsers](http://rusersgroup.com/img/final5x5.png)](https://www.facebook.com/Rusersgroup)
 
 
 ```javascript
