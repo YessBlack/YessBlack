@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/70681219/214200802-4cf30dba-4da6-4d42-93f7-c7d7aaae5a38.jpg)
 
 <h1 align="center">Hi 👋, I'm Angelica Garcia</h1>
-<p>I am a Frontend developer passionate about technology, curious and self-taught, I have experience developing projects with JavaScript, nodeJS, Firebase technologies, unit tests, Git and React applying SCRUM as an agile framework. One of my greatest motivations is to continue learning with great humility and share that knowledge.</p>
+<p>I am a Frontend developer passionate about technology, curious and self-taught, I have experience developing projects with JavaScript, nodeJS, Firebase, unit tests, Git and React applying SCRUM as an agile framework. One of my greatest motivations is to continue learning with great humility and share that knowledge.</p>
 
 - 🔭 I’m currently working on [DEV001-burger-queen-api-client](https://github.com/YessBlack/DEV001-burger-queen-api-client)
 
