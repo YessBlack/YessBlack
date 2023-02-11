@@ -5,10 +5,10 @@
 
 ## Connect with me:
 
-<a href="https://twitter.com/YessBl4ck">
+<a href="https://twitter.com/YessBl4ck" target="_blank">
   <img align="left" alt="Angelica Garcia Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
 </a>
-<a href="https://www.linkedin.com/in/angelica-garcia-osorio/">
+<a href="https://www.linkedin.com/in/angelica-garcia-osorio/" target="_blank">
   <img align="left" alt="Angelica Garcia LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 
