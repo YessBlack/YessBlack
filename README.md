@@ -29,6 +29,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/jest-3521517-2945020.png"></code>
+<code><img height="20" src="[https://cdn.iconscout.com/icon/free/png-256/jest-3521517-2945020.png](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png)"></code>
 
 ---
 
