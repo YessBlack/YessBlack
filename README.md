@@ -22,7 +22,7 @@
 
 - 🌱 Estoy aprendiendo React, TypeScript y Firebase
 
-- 💬 Pregúntame sobre JavaScript, TypeScript, ovnis, conspiraciones, tecnología y espionaje
+- 💬 Pregúntame sobre JavaScript, TypeScript, ovnis, conspiraciones, tecnología y espionaje 👽
 
 - 📫 Cómo contactarme: anyegar36@gmail.com
 
