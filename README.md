@@ -1,4 +1,5 @@
-![banner](https://user-images.githubusercontent.com/70681219/214200802-4cf30dba-4da6-4d42-93f7-c7d7aaae5a38.jpg)
+
+![Banner para Linkedin desarrollador web moderno azul verde](https://github.com/user-attachments/assets/93595059-f4d2-46f5-b349-14df195abffb)
 
 <h1 align="center">Hi 👋, I'm Angelica Garcia</h1>
 <p>I am a Frontend developer passionate about technology, curious and self-taught, I have experience developing projects with JavaScript, nodeJS, Firebase, unit tests, Git and React applying SCRUM as an agile framework. One of my greatest motivations is to continue learning with great humility and share that knowledge.</p>
