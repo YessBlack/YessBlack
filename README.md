@@ -1,7 +1,7 @@
 
 ![Banner para Linkedin desarrollador web moderno azul verde](https://github.com/user-attachments/assets/93595059-f4d2-46f5-b349-14df195abffb)
 
-<h1 align="center">Hi 👋, I'm Angelica Garcia</h1>
+<h1 align="center">Hola 👋, Soy Angelica Garcia</h1>
 <p>Soy desarrolladora Frontend y para mí la tecnología es mucho más que código: es la oportunidad de construir cosas que transforman la manera en que las personas viven y trabajan. Me encanta ese proceso creativo de convertir ideas en soluciones reales, y esa curiosidad constante me impulsa a aprender cada día más, siempre desde la humildad y el deseo genuino de crecer. Trabajo con React, TypeScript, Firebase, Zustand, Context API, Node.js, Git y GitHub, aplicando SCRUM para mantener la colaboración y la eficiencia. Lo que más disfruto es saber que lo que creo puede ayudar a alguien, mejorar experiencias y ser parte de un aprendizaje compartido con la comunidad.</p>
 
 ## Contacta conmigo:
