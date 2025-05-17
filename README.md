@@ -2,9 +2,9 @@
 ![Banner para Linkedin desarrollador web moderno azul verde](https://github.com/user-attachments/assets/93595059-f4d2-46f5-b349-14df195abffb)
 
 <h1 align="center">Hi 👋, I'm Angelica Garcia</h1>
-<p>I am a Frontend developer passionate about technology, curious and self-taught, I have experience developing projects with JavaScript, nodeJS, Firebase, unit tests, Git and React applying SCRUM as an agile framework. One of my greatest motivations is to continue learning with great humility and share that knowledge.</p>
+<p>Soy desarrolladora Frontend y para mí la tecnología es mucho más que código: es la oportunidad de construir cosas que transforman la manera en que las personas viven y trabajan. Me encanta ese proceso creativo de convertir ideas en soluciones reales, y esa curiosidad constante me impulsa a aprender cada día más, siempre desde la humildad y el deseo genuino de crecer. Trabajo con React, TypeScript, Firebase, Zustand, Context API, Node.js, Git y GitHub, aplicando SCRUM para mantener la colaboración y la eficiencia. Lo que más disfruto es saber que lo que creo puede ayudar a alguien, mejorar experiencias y ser parte de un aprendizaje compartido con la comunidad.</p>
 
-## Connect with me:
+## Contacta conmigo:
 
 <a href="https://twitter.com/YessBl4ck" target="_blank">
   <img align="left" alt="Angelica Garcia Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
@@ -16,21 +16,26 @@
 <br />
 <br />
 
-## What i'm up to
+## Mi enfoque actual
 
-- 🔭 I’m currently working on [DEV001-burger-queen-api-client](https://github.com/YessBlack/DEV001-burger-queen-api-client)
-- 🌱 I’m currently learning **React, API rest**
-- 💬 Ask me about **JavaScript, jest, firebase, html, css**
-- 📫 How to reach me **anyegar36@gmail.com**
+- 🔭 Actualmente trabajo en Giobs
 
-## Languages and Tools
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/250px-CSS3_logo.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/jest-3521517-2945020.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png"></code>
+- 🌱 Estoy aprendiendo React, TypeScript y Firebase
+
+- 💬 Pregúntame sobre JavaScript, TypeScript, ovnis, conspiraciones, tecnología y espionaje
+
+- 📫 Cómo contactarme: anyegar36@gmail.com
+
+## Lenguajes
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"></code>
+<code><img height="20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub"></code>
+
 
 ---
 
