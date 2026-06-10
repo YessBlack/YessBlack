@@ -1,42 +1,84 @@
+<img src="https://github.com/user-attachments/assets/93595059-f4d2-46f5-b349-14df195abffb" alt="Banner" width="100%" />
 
-![Banner para Linkedin desarrollador web moderno azul verde](https://github.com/user-attachments/assets/93595059-f4d2-46f5-b349-14df195abffb)
+<h1 align="center">Hi 👋, I'm Angelica Garcia</h1>
 
-<h1 align="center">Hola 👋, Soy Angelica Garcia</h1>
-<p>Soy desarrolladora Frontend y para mí la tecnología es mucho más que código: es la oportunidad de construir cosas que transforman la manera en que las personas viven y trabajan. Me encanta ese proceso creativo de convertir ideas en soluciones reales, y esa curiosidad constante me impulsa a aprender cada día más, siempre desde la humildad y el deseo genuino de crecer. Trabajo con React, TypeScript, Firebase, Zustand, Context API, Node.js, Git y GitHub, aplicando SCRUM para mantener la colaboración y la eficiencia. Lo que más disfruto es saber que lo que creo puede ayudar a alguien, mejorar experiencias y ser parte de un aprendizaje compartido con la comunidad.</p>
+<h3 align="center">
+Software Developer | Crafting Systems with Curiosity, Purpose & Clean Architecture
+</h3>
 
-## Contacta conmigo:
-
-<a href="https://twitter.com/YessBl4ck" target="_blank">
-  <img align="left" alt="Angelica Garcia Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
-</a>
-<a href="https://www.linkedin.com/in/angelica-garcia-osorio/" target="_blank">
-  <img align="left" alt="Angelica Garcia LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
-</a>
+<p align="center">
+Passionate about understanding business challenges, evaluating technical solutions, and building reliable products that create real-world impact.
+</p>
 
 <br />
-<br />
 
-## Mi enfoque actual
+## 👩‍💻 About Me
 
-- 🔭 Actualmente trabajo en Giobs
+I'm a Software Developer with experience building modern web applications using technologies such as **JavaScript, TypeScript, React, and Node.js**. I'm passionate about creating products that deliver meaningful value to both people and organizations, combining a practical mindset with a continuous drive for technical growth.
 
-- 🌱 Estoy aprendiendo React, TypeScript y Firebase
+Throughout my career, I've contributed to the design and implementation of features, process optimization, service integrations, and user-centered experiences. I enjoy understanding business needs, evaluating different technical approaches, and developing clean, maintainable solutions aligned with product goals.
 
-- 💬 Pregúntame sobre JavaScript, TypeScript, ovnis, conspiraciones, tecnología y espionaje 👽
-
-- 📫 Cómo contactarme: anyegar36@gmail.com
-
-## Lenguajes
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"></code>
-<code><img height="20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub"></code>
-
+Beyond the user interface, I'm particularly interested in how software works under the hood—how data flows through systems, how databases are designed, and how architectural patterns contribute to scalable and maintainable applications.
 
 ---
 
-![Goncy's github stats](https://github-readme-stats.vercel.app/api?username=yessblack&show_icons=true&hide_border=true)
+## 🚀 Current Focus & Growth
+
+I'm currently expanding my knowledge to develop a broader and more well-rounded perspective on software engineering:
+
+* **Backend & Systems:** Deepening my understanding of software architecture, system design, and design patterns.
+* **Databases & APIs:** Exploring relational and non-relational database design, query optimization, and efficient service integration.
+* **Engineering Fundamentals:** Strengthening my foundations in computer science, clean code, and software development best practices.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Backend
+<p align="left">
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" />&nbsp;
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" />&nbsp;
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" />&nbsp;
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" />
+</p>
+
+### Frontend
+<p align="left">
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" />&nbsp;
+  <img height="32" src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="Astro" />
+</p>
+
+### Databases & Cloud
+<p align="left">
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" />&nbsp;
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="Firebase" />&nbsp;
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png" alt="Supabase" />
+</p>
+
+### Tools & Environment
+<p align="left">
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />&nbsp;
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />&nbsp;
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" />&nbsp;
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" />&nbsp;
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yessblack&show_icons=true&hide_border=true&theme=transparent" alt="Angelica's GitHub Stats" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+Let's connect and talk about software engineering, architecture, product development, or technology in general.
+
+* **Email:** anyegar36@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/angelica-garcia-osorio/
+
+<br />
