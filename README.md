@@ -29,34 +29,52 @@ Trabajo con JavaScript, TypeScript, React y Node.js, y últimamente estoy enfoca
 
 ## 🛠️ Stack tecnológico
 
-### Lenguajes y Backend
+### Lenguajes
 <p align="left">
   <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" />&nbsp;
   <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" />&nbsp;
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" />&nbsp;
   <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" />
+</p>
+
+### Backend
+<p align="left">
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" />&nbsp;
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/spring/spring.png" alt="Spring" />
 </p>
 
 ### Frontend
 <p align="left">
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" />&nbsp;
-  <img height="32" src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="Astro" />
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" />&nbsp;
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" />&nbsp;
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" />&nbsp;
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" />
 </p>
 
 ### Bases de datos y Cloud
 <p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white" alt="SQL" />&nbsp;
+  <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=flat&logo=mongodb&logoColor=white" alt="NoSQL" />&nbsp;
   <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" />&nbsp;
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" />&nbsp;
   <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="Firebase" />&nbsp;
   <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png" alt="Supabase" />
+  <img height="32" src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" />&nbsp;
 </p>
 
 ### Herramientas
 <p align="left">
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />&nbsp;
-  <img height="28" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" />&nbsp;
+   <img height="28" src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" />&nbsp;
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" />&nbsp;
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" />&nbsp;
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" />
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" alt="IntelliJ IDEA" />&nbsp;
+</p>
+
+### Productividad
+<p align="left">
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/notion/notion.png" alt="Notion" />&nbsp;
+  <img height="32" src="https://cdn.simpleicons.org/trello/0052CC" alt="Trello" />&nbsp;
 </p>
 
 ---
