@@ -86,7 +86,7 @@ Trabajo con JavaScript, TypeScript, React y Node.js, y últimamente estoy enfoca
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yessblack&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=YessBlack&theme=transparent" alt="GitHub Stats" />
 </p>
 
 ---
